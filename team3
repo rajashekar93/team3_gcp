@@ -1,0 +1,6 @@
+ping -c3 google.com
+ping -c3 github.com
+ping -c3 gitlab.com
+ls -ltr
+find /etc *
+
